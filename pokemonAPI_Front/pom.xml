@@ -3,7 +3,7 @@
     <!--  Vaadin project from https://github.com/vaadin/skeleton-starter-flow-spring  -->
     <groupId>dis.pokemon.front</groupId>
     <artifactId>pokemon_frontend</artifactId>
-    <name>FrontEnd Pokemon con Vaadin </name>
+    <name>Frontend Pokemon con Vaadin</name>
     <version>1.0</version>
     <packaging>jar</packaging>
     <properties>
